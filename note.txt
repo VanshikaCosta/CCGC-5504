@@ -1,1 +1,2 @@
+This is User1 checking the commited file
 This file is made for CCGC-5504 Lab 1 
